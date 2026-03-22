@@ -6,7 +6,7 @@ Need help with the app? You're in the right place.
 
 If you have questions, issues, or feedback, feel free to reach out:
 
-**Email:** nordgrenstudio@gmail.com 
+**Email:** [nordgrenstudio@gmail.com](mailto:nordgrenstudio@gmail.com) 
 We usually respond within 24–48 hours.
 
 ---
@@ -27,7 +27,7 @@ Try restoring your purchase:
 - Go to Settings and tap Upgrade to Premium
 - Tap **Restore Purchases**
 
-If it still doesn’t work, contact us on nordgrenstudio@gmail.com.
+If it still doesn’t work, contact us at [nordgrenstudio@gmail.com](mailto:nordgrenstudio@gmail.com).
 
 ---
 
