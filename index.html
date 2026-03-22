@@ -1,22 +1,83 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Habit Tracker — Support</title>
-<style>
-  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;background:#f7f7f8}
-  main{background:#fff;padding:24px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,.06);max-width:600px;width:90%}
-  h1{margin:0 0 8px;font-size:1.2rem}
-  p{margin:0.2rem 0}
-  a{color:#0366d6}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Habit Tracker — Support</title>
+  <meta name="description" content="Support and help for the Habit Tracker app." />
+  <style>
+    body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial;margin:0;background:#f7f7f8;color:#0b1221}
+    .container{max-width:900px;margin:48px auto;padding:24px}
+    .card{background:#fff;border-radius:10px;padding:20px;box-shadow:0 6px 18px rgba(10,15,25,0.06);margin-bottom:16px}
+    h1{margin:0 0 8px;font-size:1.6rem}
+    h2{margin-top:0;font-size:1.1rem}
+    a{color:#0366d6}
+    .muted{color:#556;font-size:0.95rem}
+    ul{margin-top:0}
+    pre{background:#f3f4f6;padding:12px;border-radius:6px;overflow:auto}
+    @media (max-width:540px){.container{margin:20px;padding:16px}}
+  </style>
 </head>
 <body>
-<main>
-  <h1>Support</h1>
-  <p>Need help? Email <a href="mailto:your@email.com">your@email.com</a></p>
-  <p><a href="https://your-link.com/privacy" target="_blank" rel="noopener">Privacy Policy</a> · <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" target="_blank" rel="noopener">Terms</a></p>
-</main>
+  <main class="container">
+    <header>
+      <h1>Support</h1>
+      <p class="muted">Need help with the app? You're in the right place.</p>
+    </header>
+
+    <section class="card">
+      <h2>Contact</h2>
+      <p>If you have questions, issues, or feedback, feel free to reach out:</p>
+      <p><strong>Email:</strong> <a href="mailto:your@email.com">your@email.com</a><br>
+      We usually respond within 24–48 hours.</p>
+    </section>
+
+    <section class="card">
+      <h2>Frequently Asked Questions</h2>
+      <h3>How do I track a habit?</h3>
+      <p>Open the app and tap on a habit to mark it as completed for the day.</p>
+
+      <h3>Can I edit or delete a habit?</h3>
+      <p>Yes. Long-press a habit (or tap the menu icon) to edit or delete it.</p>
+
+      <h3>How does the streak work?</h3>
+      <p>Your streak increases each day you complete a habit without breaking the chain.</p>
+
+      <h3>I purchased premium, but it’s not unlocked</h3>
+      <p>Try restoring your purchase:</p>
+      <pre>- Go to Settings
+- Tap <strong>Restore Purchases</strong></pre>
+      <p>If it still doesn’t work, contact support.</p>
+    </section>
+
+    <section class="card">
+      <h2>Report a Bug</h2>
+      <p>If something isn’t working as expected, please include:</p>
+      <ul>
+        <li>What happened</li>
+        <li>Steps to reproduce</li>
+        <li>Your device model and iOS version</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Feature Requests</h2>
+      <p>Have an idea to improve the app? Send it to us — we’re always looking to make things better.</p>
+    </section>
+
+    <section class="card">
+      <h2>Privacy &amp; Terms</h2>
+      <ul>
+        <li><a href="https://your-link.com/privacy" target="_blank" rel="noopener">Privacy Policy</a></li>
+        <li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" target="_blank" rel="noopener">Terms of Use</a></li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>About</h2>
+      <p>This app is designed to help you build habits with a simple, clean, and focused experience.</p>
+    </section>
+
+  </main>
 </body>
 </html>
