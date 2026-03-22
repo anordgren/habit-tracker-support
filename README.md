@@ -6,7 +6,7 @@ Need help with the app? You're in the right place.
 
 If you have questions, issues, or feedback, feel free to reach out:
 
-**Email:** your@email.com   
+**Email:** nordgrenstudio@gmail.com 
 We usually respond within 24–48 hours.
 
 ---
@@ -17,17 +17,17 @@ We usually respond within 24–48 hours.
 Open the app and tap on a habit to mark it as completed for the day.
 
 ### Can I edit or delete a habit?
-Yes. Long-press a habit (or tap the menu icon) to edit or delete it.
+Yes. Long-press a habit to edit or delete it.
 
 ### How does the streak work?
 Your streak increases each day you complete a habit without breaking the chain.
 
 ### I purchased premium, but it’s not unlocked
 Try restoring your purchase:
-- Go to Settings  
+- Go to Settings and tap Upgrade to Premium
 - Tap **Restore Purchases**
 
-If it still doesn’t work, contact support.
+If it still doesn’t work, contact us on nordgrenstudio@gmail.com.
 
 ---
 
@@ -48,7 +48,7 @@ Have an idea to improve the app? Send it to us — we’re always looking to mak
 
 ## Privacy & Terms
 
-- [Privacy Policy](https://your-link.com/privacy)
+- [Privacy Policy](https://anordgren.github.io/habit-tracker-privacy/)
 - [Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
